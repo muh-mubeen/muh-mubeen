@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source initiatives involving Data Lakehouses, Streaming Analytics, MLOps, and Modern Data Architectures**
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with Advanced AI Engineering & Generative AI Solutions Exploring LLM-powered data applications, RAG architectures, AI agents, and enterprise AI adoption**
+- 🤝 I’m looking for help with **🤝 Advanced AI Engineering & Generative AI Solutions Exploring LLM-powered data applications, RAG architectures, AI agents, and enterprise AI adoption**
 
 - 💬 Ask me about **Data Engineering Snowflake & Databricks Apache Spark & Kafka ETL/ELT Pipelines Data Architecture AWS, Azure & GCP Data Warehousing Microsoft Fabric AI/ML Data Platforms**
 
